@@ -42,4 +42,4 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 <br><br>
 
-<img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwon880&layout=compact&theme=transparent&hide_border=true" /></a> 
+<img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkd8973&layout=compact&theme=transparent&hide_border=true" /></a> 
