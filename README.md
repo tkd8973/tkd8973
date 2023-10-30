@@ -26,11 +26,11 @@
 ![mariaDB](https://img.shields.io/badge/mariaDB-232F3E.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-2496ED?style=flat-square&logo=Nginx&logoColor=white")
-![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white)
-![GitAction](https://img.shields.io/badge/GithubAction-2496ED?style=flat-square&logo=GithubAction&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-2496ED?style=flat-square&logo=ArgoCD&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-2496ED?style=for-the-badge&logo=Nginx&logoColor=white")
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![GitAction](https://img.shields.io/badge/GithubAction-2496ED?style=for-the-badge&logo=GithubAction&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-2496ED?style=for-the-badge&logo=ArgoCD&logoColor=white)
 <br><br>
 
 
